@@ -1,0 +1,16 @@
+<html>
+<body>
+<form method="post">
+
+<label for="thecontent">Enter the text about you want to analyse on twitter:</label>
+<input type="text" name="thecontent" id="thecontent">
+<input type="submit" value="Find:"/>
+
+</form>
+{% if result %}
+Result is: {{ result }}
+{% endif %}
+
+</body>
+
+<html>
