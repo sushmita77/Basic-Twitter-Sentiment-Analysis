@@ -5,6 +5,8 @@ Simple python and flask program to input the text you want to find on twitter to
 
 2.Flask is used to take input for the  interested search criteria
 
+3.Create the index.html find in templates folder.
+
 3.Textblob is used to perform sentiment analysis.
 
 4.The result is the text(tweet) and its corresponding value of polarity(positive/negative).
