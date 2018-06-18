@@ -7,7 +7,7 @@ Simple python and flask program to input the text you want to find on twitter to
 
 3.Create the index.html find in templates folder.
 
-3.Textblob is used to perform sentiment analysis.
+4.Textblob is used to perform sentiment analysis.
 
-4.The result is the text(tweet) and its corresponding value of polarity(positive/negative).
+5.The result is the text(tweet) and its corresponding value of polarity(positive/negative).
 
